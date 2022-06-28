@@ -1,5 +1,7 @@
 # Module Work and other untracked files
 ModuleWork/
+crypto_clustering_starter_code.ipynb
+crypto_data.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
